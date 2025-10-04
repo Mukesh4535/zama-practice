@@ -1,1 +1,2 @@
-# zama-practice
+Commit 1
+Commit 2
